@@ -1,0 +1,33 @@
+{
+  "thesaurus": [
+    {
+      "relatedLexicalConstructs": [
+        "vespers",
+        "matins"
+      ],
+      "morphologicalForms": [
+        "prayers"
+      ],
+      "type": "S",
+      "value": "prayer"
+    },
+    {
+      "relatedLexicalConstructs": [
+        "pet-owner",
+        "canine-lover"
+      ],
+      "type": "M",
+      "value": "dog_man",
+      "compoundOrIdiom": "C"
+    },
+    {
+      "relatedLexicalConstructs": [
+        "passed_out",
+        "sleep"
+      ],
+      "compoundOrIdiom": "I",
+      "type": "M",
+      "value": "i_fell_on_the_apples"
+    }
+  ]
+}
